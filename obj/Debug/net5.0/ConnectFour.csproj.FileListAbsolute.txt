@@ -1,0 +1,16 @@
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ConnectFour.exe
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ConnectFour.deps.json
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ConnectFour.runtimeconfig.json
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ConnectFour.runtimeconfig.dev.json
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ConnectFour.dll
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ref\ConnectFour.dll
+C:\Users\lugod\source\repos\ConnectFour\bin\Debug\net5.0\ConnectFour.pdb
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.csprojAssemblyReference.cache
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.AssemblyInfoInputs.cache
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.AssemblyInfo.cs
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.csproj.CoreCompileInputs.cache
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.dll
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ref\ConnectFour.dll
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.pdb
+C:\Users\lugod\source\repos\ConnectFour\obj\Debug\net5.0\ConnectFour.genruntimeconfig.cache
