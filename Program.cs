@@ -6,12 +6,13 @@ namespace ConnectFour
     {
         static void Main(string[] args)
         {
-            bool turn = true;
+            bool turn = false;
             int column;
             TokenState state;
 
             do
             {
+                turn = turn ? false : true;
                 Console.Clear();
                 Board.Draw();
 
@@ -22,8 +23,6 @@ namespace ConnectFour
                     column = Prompt.GetMove(1, 7);
                     state = turn ? TokenState.X : TokenState.O;
                 } while (!Board.DropToken(state, column) && !Board.IsFull());
-                
-                turn = turn ? false : true;
             } while (!Board.IsWin() && !Board.IsFull());
             
             Console.Clear();
@@ -35,7 +34,7 @@ namespace ConnectFour
             }
             else
             {
-                Console.WriteLine("Player " + (turn ? 2 : 1) + " wins!");
+                Console.WriteLine("Player " + (turn ? 1 : 2) + " wins!");
             }
 
             Console.WriteLine("Press any key to continue...");
